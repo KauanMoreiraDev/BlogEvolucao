@@ -14,19 +14,17 @@ h1{
 }
 
 .normal{
-    background-color: yellow;
+    background-color: rgba(0, 255, 255, 0.404);
 }
 
 #eniac{
-    background-image: url(images/Electronic-Numerical-Integrator-And-Computer.png);
+    background: green url(images/Electronic-Numerical-Integrator-And-Computer.png) center center no-repeat fixed;
     background-size: cover;
-    background-attachment: fixed;
 }
 
 #colossus{
-    width: 400px;
-    height: 400px;
-    background: rgb(0, 255, 234) url(images/colossus.jpg) center center no-repeat cover fixed;
+    background: green url(images/colossus.jpg) center center no-repeat fixed;
+    background-size: cover;
 }
 
 #radar{
